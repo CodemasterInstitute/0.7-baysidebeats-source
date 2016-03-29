@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fig",
+				"figcaption	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"h",
+				"horizontal"
+			],
+			[
+				"web",
+				"webkit-box"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"we",
+				"webkit-box-flex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4739,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elizabethhburgess/Sites/2015-christmas/index.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/first_website_pt2_end/bayside_beat/index.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/area_example/index2.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/addinclude-example/connection.inc.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/documentExample.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/addinclude-example/bank2.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/addinclude-example/index.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/footer_example/index1.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/add.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/Exercise2_solution.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/Exercise2_solution.html.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/Exercise2_sol2.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/Ex2-footer.inc.html.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/footer_example/index.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/footer_example/samplepage.html.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/footer_example/footer.inc.html.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/area_example/index.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/area_example/area-function.inc.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/area_example/output.html.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/Exercise2.css",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/html_css_exercises/Solution/exercise1_solution.html",
+		"/Users/elizabethhburgess/Downloads/add.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/.htaccess",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/index.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/index.html",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/exercise1/index.php",
+		"/Users/elizabethhburgess/Sites/codemasterinsitute.dev/php_exercises/exercise1/samplepage.html.php",
+		"/Users/elizabethhburgess/Sites/scss3_ch7_code/form_start.html",
+		"/Users/elizabethhburgess/Sites/WebAwards/index.html",
+		"/Users/elizabethhburgess/Sites/WebAwards/css/app.cs",
+		"/Users/elizabethhburgess/Sites/WebAwards/portfolio.html",
+		"/Users/elizabethhburgess/Sites/WebAwards/css/app.css",
+		"/Users/elizabethhburgess/Sites/WebAwards/Bootstrap/index.html",
+		"/Users/elizabethhburgess/Sites/WebAwards/ecommerce.html",
+		"/Users/elizabethhburgess/Downloads/SfSchedule_MVVM_WPF/SfSchedule_MVVM_WPF/SfScheduleCommands.cs",
+		"/Users/elizabethhburgess/Downloads/SfSchedule_MVVM_WPF/SfSchedule_MVVM_WPF/Model/ScheduleModel.cs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"’",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&rsquo;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BSBBootstrapped.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

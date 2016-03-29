@@ -1,0 +1,49 @@
+/*specific style overrides for site.*/
+body    {
+    margin: 0px;
+    color: #151515;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-color: #EFF5F8;
+}
+
+.jumbotron{
+	background-color: #eff5f8;
+}
+#hero {
+    position: relative;
+    clear: left;
+}
+#hero article {
+    width: 36%;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    top: 40px;
+    right: 43px;
+    background-color: #FAA356;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
+#hero h2 {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-top: 5px;
+    margin-bottom: -7px;
+}
+#hero img {
+    max-width: 100%;
+}
+
+h1, h2 {
+    color: #3399CC;
+    font-style: normal;
+    font-weight: 600;
+    font-family: source-sans-pro;
+}
+h1 {
+    font-size: 72px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
